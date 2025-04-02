@@ -3,10 +3,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-<div align="center">
-  <img src="https://i.imgur.com/fXuGP7N.png" alt="MCP Productivity Suite Logo" width="120">
-  <h3>Seamlessly manage meetings and communications with AI-powered tools</h3>
-</div>
 
 ## 📋 Table of Contents
 - [Overview](#overview)
