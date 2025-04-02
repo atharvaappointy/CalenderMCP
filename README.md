@@ -1,9 +1,6 @@
 # MCP Productivity Suite
 
-<div align="center">
-  <img src="https://i.imgur.com/fXuGP7N.png" alt="MCP Productivity Suite Logo" width="120">
-  <h3>Seamlessly manage meetings and communications with AI-powered tools</h3>
-</div>
+
 
 ## 📋 Table of Contents
 - [Overview](#overview)
