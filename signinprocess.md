@@ -275,4 +275,8 @@ This concludes the sign-in process documentation up to successful authentication
 ### Instructions
 1. **Save the File**: Copy the above content into a file named `signin.md` in your project root or a `docs` folder.
 2. **Review**: Ensure the `.env` variables match your setup, and update placeholders (e.g., database name) if needed.
-3. **Enhance**: Add diagrams (e.g., using Mermaid syntax) or more details if required for your team. 
+3. **Enhance**: Add diagrams (e.g., using Mermaid syntax) or more details if required for your team.
+
+
+![Editor _ Mermaid Chart-2025-04-02-034505](https://github.com/user-attachments/assets/2fbb45ad-5f4a-493c-b215-5ffe4094a5da)
+
