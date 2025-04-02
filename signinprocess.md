@@ -278,5 +278,6 @@ This concludes the sign-in process documentation up to successful authentication
 3. **Enhance**: Add diagrams (e.g., using Mermaid syntax) or more details if required for your team.
 
 
-![Editor _ Mermaid Chart-2025-04-02-034505](https://github.com/user-attachments/assets/2fbb45ad-5f4a-493c-b215-5ffe4094a5da)
+![Editor _ Mermaid Chart-2025-04-02-035545](https://github.com/user-attachments/assets/8bb08a74-002f-47b5-8c68-8474c56aa278)
+
 
