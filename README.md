@@ -452,6 +452,19 @@ The application uses Google's Gemini AI model for natural language processing, e
   - Creates properly formatted email structure
 
 ## 🛠️ Tech Stack
+| Feature           | Hapi.js | NestJS | Express.js | Koa.js | Fastify |
+|------------------|--------|--------|------------|--------|---------|
+| **Type** | Backend Framework | Backend Framework | Minimal Web Framework | Middleware Framework | Web Framework |
+| **Architecture** | Plugin-based, Configuration-driven | Modular, MVC (Inspired by Angular) | Middleware-based, Lightweight | Middleware-based, Async/Await | Schema-driven, Fast |
+| **Performance** | Moderate | High (Optimized with Dependency Injection) | Moderate | High (Minimal Boilerplate) | Very High (Optimized for Speed) |
+| **Ease of Use** | Configuration-heavy | Opinionated, Similar to Angular | Simple & Minimalistic | Lightweight, Requires More Setup | Minimalistic but with Schema-based approach |
+| **TypeScript Support** | Native Support | First-Class Support | Requires Manual Setup | Requires Manual Setup | First-Class Support |
+| **Plugin System** | Yes (Core Strength) | Yes (Modular Decorators) | Limited (Middleware Extensions) | No (Custom Middleware) | Yes (Encapsulation for Plugins) |
+| **Built-in Validations** | Joi (Powerful Validation) | Uses Pipes & Class-Validator | No (Requires Third-party Middleware) | No (Requires Middleware) | Yes (Schema-based) |
+| **Security Features** | Out-of-the-box (Auth, Headers, CSRF, etc.) | Built-in Guards & Middlewares | Minimal (Needs Helmet.js & Middleware) | Minimal (Needs Middleware) | Secure by Design (HTTP2, CSP, etc.) |
+| **Best Use Case** | API Development with Plugin Architecture | Enterprise-Grade Scalable Apps | Simple & Quick REST APIs | Lightweight Microservices | High-Performance APIs |
+| **Learning Curve** | Moderate (Configuration-focused) | Steep (Angular-like) | Easy (Minimalistic) | Moderate (More Abstraction) | Easy (JSON Schema-driven) |
+
 
 - **Backend**
   - Node.js
